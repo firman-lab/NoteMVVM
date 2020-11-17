@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="bg_view">#E4E4E4</color>
+    <color name="Button">#DF670A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="greencard">#F7D88E1F</color>
+</resources>

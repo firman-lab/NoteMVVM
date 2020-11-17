@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<LinearLayout
+    android:id="@+id/list_item"
+    android:layout_width="match_parent"
+    android:layout_height="90dp"
+    android:padding="18dp"
+    android:layout_margin="8dp"
+    android:orientation="vertical"
+    android:background="@color/greencard"
+    android:elevation="10dp">
+
+    <TextView
+        android:id="@+id/txtNama"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/firman_khan"
+        android:textSize="24sp"
+        android:textStyle="italic|bold" />
+
+    <TextView
+        android:id="@+id/txtEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/firmankhan_gmail_com" />
+</LinearLayout>
+</layout>
